@@ -20,5 +20,8 @@
     <string name="favorites">Favorites</string>
     <string name="groups">Groups</string>
     <string name="fav">Fav</string>
+    <string name="todo">loading....</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="me">Me</string>
 
 </resources>
